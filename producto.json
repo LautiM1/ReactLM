@@ -1,0 +1,40 @@
+[
+    {
+        "nombre": "Remera Sailor Moon",
+        "id": 1,
+        "precio": 1500,
+        "imagen": "./img/sailor-moon21-20a3d839480ac626b116057974949317-1024-1024.jpg"
+      },
+      {
+        "nombre": "Remera Tajiro",
+        "id": 2,
+        "precio": 1500,
+        "imagen": "./img/tanjiroback1-e6da8226aa95f1fb5315748201111548-1024-1024.jpg"
+      },
+      {
+        "nombre": "Buzo Demon Slayer",
+        "id": 3,
+        "precio": 4500,
+        "imagen": "./img/tanjiroback1-e6da8226aa95f1fb5315748201111548-1024-1024.jpg"
+      },
+      {
+        "nombre": "Buzo Negro",
+        "id": 4,
+        "precio": 4500,
+        "imagen": "./img/01-8bc6c1b963ec436d8a16189339524472-1024-1024.jpg"
+      },
+      {
+        "nombre": "Himiko Toga",
+        "id": 5,
+        "precio": 4500,
+        "imagen": "./img/himiko-toga1-8755a4706ca5a06c5815710073832545-1024-1024.jpg"
+      },
+      {
+        "nombre": "Shoto",
+        "id": 6,
+        "precio": 4500,
+        "imagen": "./img/shoto1-a2d5065adf2d294d4416137441869643-1024-1024.jpg"
+      }
+      
+      
+]

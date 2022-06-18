@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+
+}
+#carrito{
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
